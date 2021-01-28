@@ -1,7 +1,7 @@
 ---
 author: "hypowork"
 title: "Makerwork 001"
-date: 2021-01-29T12:00:06+09:00
+date: "Thu, 28 Jan 2021 12:00:06 +0800"
 description: "Welcome to the premier digest of the newsletter. Miguel has the honor of being the first maker to be featured in Makerwork."
 draft: false
 hideToc: false
