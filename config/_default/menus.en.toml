@@ -51,9 +51,15 @@
 #  weight = 7
 
 [[main]]
+  identifier = "buyacoffee"
+  name = "Buy a Coffee ☕"
+  url = "https://ko-fi.com/dennislwm"
+  weight = 8
+
+[[main]]
   identifier = "rss"
   name = "RSS"
-  weight = 8
+  weight = 9
     
 [[main]]
   parent = "rss"
