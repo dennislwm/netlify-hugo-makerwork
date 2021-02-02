@@ -2,7 +2,7 @@
 author: "hypowork"
 title: "Makerwork 002"
 date: "Tue, 02 Feb 2021 12:00:06 +0800"
-description: "Welcome to the **Digest 002** of the newsletter. Tad, our featured maker, is a software engineer at heart. 🏆\n\nAccording to research from Entertainment Software Association, 70% of families have at least one child who plays video games. While online gaming can provide quality social interaction, there's also a darker side.\n\nFrom cyber bullying to online predators to hidden costs, there are many concerns when it comes to playing video games online, especially for children. These concerns are certainly valid for Tad, the parent of a young child.\n\nAs an angel investor skilled in bootstrapping, company & team building, and shipping, Tad's goal is to create a safe online play, namely **Minecraft Playdates**. ⭐️"
+description: "Welcome to the Digest 002 of the newsletter. Tad, our featured maker, is a software engineer at heart. 🏆"
 draft: false
 hideToc: false
 enableToc: true
