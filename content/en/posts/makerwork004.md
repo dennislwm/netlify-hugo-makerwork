@@ -14,7 +14,7 @@ tags:
 - browser
 series:
 - makerwork
-image: images/feature/makerwork004.jpg
+image: images/feature/makerwork004.png
 ---
 
 {{< img src="/images/header/375x200makerwork-code-block-purple-green.png" title="" alt="Makerwork" height="199px" position="center" >}}
