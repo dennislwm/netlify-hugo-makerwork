@@ -71,7 +71,7 @@ He is currently learning about system architecture and first experience in build
 
 | Last commit | First commit |
 | ------- | ------- |
-| Aug 22, 2018 | Feb 12, 2021 |
+| Feb 12, 2021 | Aug 22, 2018 |
 
 **LinkAce** is a bookmark archive. It wasn't built to manage the bookmarks of your browser but has its very own philosophy. 
 
@@ -88,7 +88,7 @@ My browser bookmarks contain only websites I regularly use and access. **LinkAce
 
 | Last commit | First commit |
 | ------- | ------- |
-| Sep 03, 2013 | Feb 13, 2021 |
+| Feb 13, 2021 | Sep 03, 2013 |
 
 **Violentmonkey** is an alternative to **Greasemonkey**, which is a userscript manager made available as a Mozilla Firefox extension. However, **Violentmonkey** is built with web extension APIs, thus supports many browsers, including Chrome.
 
@@ -105,7 +105,7 @@ It enables users to install scripts that make on-the-fly changes to web page con
 
 | Last commit | First commit |
 | ------- | ------- |
-| Jul 18, 2019 | Feb 10, 2021 |
+| Feb 10, 2021 | Jul 18, 2019 |
 
 Remember those fancy rotated app screenshots that you saw? Well, I find it very inconvenient to do all those transformations on Photoshop or similar tools. 
 
@@ -166,3 +166,7 @@ I created this tool to help you transform your screenshots/images faster and eas
 
 ---
 Like what you saw here? Why not share it?
+
+<p>
+<span class="badge-buymeacoffee"><a href="https://ko-fi.com/dennislwm" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
+</p>

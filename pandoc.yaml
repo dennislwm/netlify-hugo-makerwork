@@ -1,0 +1,65 @@
+# feature
+num: "005"
+
+# trophy
+fname: "Dave"
+lname: "Yarwood"
+name: "Dave Yarwood"
+intro: "Dave has the honor of being the first maker to be featured in Makerwork."
+skill: "Dave is a self-taught programmer and he is skilled in music composition, software development, and making cocktails."
+learning: "how to better manage his time with limited hours during the pandemic, and how to be an effective tech lead on his team at work."
+
+# social
+twitter: (twitter.com/dave_yarwood)
+linkedin: (linkedin.com/in/dave-yarwood)
+github: (github.com/daveyarwood)
+keybase: (keybase.io/daveyarwood)
+blog: (blog.djy.io)
+
+# product
+pname: alda
+purl: (alda.io)
+pshort: "A music programming language for musicians."
+pimage: "350x100alda.png"
+pwidth: 350
+planguage: "Clojure, Shell"
+pstars: 3.7k
+pforks: 216
+pissues: 32
+plast: "Feb 18, 2021"
+pfirst: "Aug 26, 2014"
+
+# product2
+qname: "Bloom"
+qurl: (github.com/skerkour/bloom)
+qshort: "The simplest way to de-Google your life and business."
+qimage: "196x196bloom.png"
+qwidth: 196
+qlanguage: "Rust, Vue, Typescript"
+qstars: 785
+qforks: 16
+qissues: 14
+qlast: "Feb 19, 2021"
+qfirst: "Dec 31, 2020"
+
+# product3
+rname: "Kimai"
+rurl: (kimai.org)
+rshort: "A web-based multiuser time-tracking application."
+rimage: "300x112kimai.png"
+rwidth: 300
+rlanguage: "Php, Twig"
+rstars: 1.2k
+rforks: 282
+rissues: 232
+rlast: "Feb 18, 2021"
+rfirst: "Oct 20, 2016"
+
+# tweet
+tname: "tweet"
+timage: "550x650tweet.png"
+twidth: 550
+
+# intro
+body: "The main problem that beginners face when joining StackOverflow is that there are so many experts in so many activities that it is hard for a beginner to find questions that are good first issues."
+star: "With his passion for AI and programming, Miguel took on this challenge and created Answerable, a recommendation system for discovering Stackoverflow unanswered questions."
