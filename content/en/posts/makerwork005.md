@@ -17,7 +17,7 @@ series:
 image: images/feature/makerwork005.png
 ---
 
-{{< img src=“/images/header/375x200makerwork-code-block-purple-green.png” title="" alt=“Makerwork” height=“199px” position=“center” >}}
+{{< img src="/images/header/375x200makerwork-code-block-purple-green.png" title="" alt="Makerwork" height="199px" position="center" >}}
 
 ## Hey Makers! 👋
 
@@ -47,7 +47,7 @@ Dave is envisioning a world where both programmers and non-programmers alike can
 
 ### Dave Yarwood
 
-{{< featuredImage alt=“featured image” width=200 height=200 >}}
+{{< featuredImage alt="featured image" width=200 height=200 >}}
 
 | [Twitter](https://twitter.com/dave_yarwood) | [LinkedIn](https://linkedin.com/in/dave-yarwood) | [GitHub](https://github.com/daveyarwood) | [Keybase](https://keybase.io/daveyarwood) | [Blog](https://blog.djy.io) |
 |----------------------------------------|--------------------------------------------|------------------------------------|-------------------------------------|-----------------------|
@@ -64,7 +64,7 @@ He is currently learning how to better manage his time with limited hours during
 
 *A music programming language for musicians.*
 
-{{< img src=“/images/makerwork005/350x100alda.png” title=“Alda” alt=“*Alda*” width=“350px” position=“center” >}}
+{{< img src="/images/makerwork005/350x100alda.png" title="Alda" alt="*Alda*" width="350px" position="center" >}}
 
 | Language       | Stars | Forks | Issues |
 |----------------|-------|-------|--------|
@@ -80,7 +80,7 @@ He is currently learning how to better manage his time with limited hours during
 
 *The simplest way to de-Google your life and business.*
 
-{{< img src=“/images/makerwork005/196x196bloom.png” title=“Bloom” alt=“*Bloom*” width=“196px” position=“center” >}}
+{{< img src="/images/makerwork005/196x196bloom.png" title="Bloom" alt="*Bloom*" width="196px" position="center" >}}
 
 | Language              | Stars | Forks | Issues |
 |-----------------------|-------|-------|--------|
@@ -96,7 +96,7 @@ He is currently learning how to better manage his time with limited hours during
 
 *A web-based multiuser time-tracking application.*
 
-{{< img src=“/images/makerwork005/300x112kimai.png” title=“Kimai” alt=“*Kimai*” width=“300px” position=“center” >}}
+{{< img src="/images/makerwork005/300x112kimai.png" title="Kimai" alt="*Kimai*" width="300px" position="center" >}}
 
 | Language  | Stars | Forks | Issues |
 |-----------|-------|-------|--------|
@@ -112,7 +112,7 @@ He is currently learning how to better manage his time with limited hours during
 
 ## Tweet Focus 🐤
 
-[{{< img src=“/images/makerwork005/550x650tweet.png” title=“tweet” alt=“*tweet*” width=“550px” position=“center” >}}](https://twitter.com/agazdecki/status/1363557541704126464)
+[{{< img src="/images/makerwork005/550x650tweet.png" title="tweet" alt="*tweet*" width="550px" position="center" >}}](https://twitter.com/agazdecki/status/1363557541704126464)
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ He is currently learning how to better manage his time with limited hours during
 
 **Hey Dave! Let’s start out with your background. 📝**
 
-> I’m a software engineer at [Kevel](kevel.co), and a life-long musician, composer and self-taught programmer.
+> I’m a software engineer at [Kevel](https://kevel.co), and a life-long musician, composer and self-taught programmer.
 >
 > After studying Music Composition in college and beginning to get more into software development, I started to become really interested in  the idea of composing music the same way that software developers create software. This is what led me to develop Alda, a music composition programming language.
 
