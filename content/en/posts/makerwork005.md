@@ -112,7 +112,7 @@ He is currently learning how to better manage his time with limited hours during
 
 ## Tweet Focus 🐤
 
-[{{< img src="/images/makerwork005/550x650tweet.png" title="tweet" alt="*tweet*" width="550px" position="center" >}}](https://twitter.com/agazdecki/status/1363557541704126464)
+[{{< img src="/images/makerwork005/450x531tweet.png" title="tweet" alt="*tweet*" width="450px" position="center" >}}](https://twitter.com/agazdecki/status/1363557541704126464)
 
 ------------------------------------------------------------------------
 
