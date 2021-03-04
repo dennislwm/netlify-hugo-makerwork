@@ -1,7 +1,7 @@
 ---
 author: "hypowork"
-title: "Makerwork 005"
-date: "Mon, 22 Feb 2021 12:00:06 +0800"
+title: "Makerwork 006"
+date: "Wed, 03 Mar 2021 12:00:06 +0800"
 description: ""
 draft: false
 hideToc: false
@@ -9,12 +9,12 @@ enableToc: true
 enableTocContent: true
 authorEmoji: 👨
 tags: 
-- clojure
-- music
-- rust
+- GitHub
+- Vue
+- JavaScript
 series:
 - makerwork
-image: images/feature/makerwork005.png
+image: images/feature/makerwork006.png
 mustache: ./pandoc.yaml
 ---
 
@@ -30,9 +30,15 @@ Welcome to **Digest {{num}}** of the newsletter. {{intro}} 🏆
 
 ## What I've Been Reading 📖
 
-* ⭐️ GUIs are useful if you're an amateur composer, but sometimes [to achieve greatness you need to go back to basics and start with a blank canvas](https://blog.djy.io/alda-a-manifesto-and-gentle-introduction). Now you can even have a version history using music as code.
+* ⭐️ [Moiva.io v3: a universal tool to Evaluate, Discover and Compare software](https://moiva.io/blog/universal-tool-to-evaluate-discover-compare-software): *Hi, Alexey is here. I have some exciting news for you! I rewrote Moiva.io from scratch and made it a Universal and Flexible tool to suit a taste of every software developer be they a JavaScript, Python or [put your favorite language here] developer.*
 
-* Stories of people losing their Google accounts for practically no reason scare me. Maybe it's time to [de-Google my mission critical and sensitive stuff](https://kn100.me/declouding-replacing-google-photos-part-1).
+* [Every thought about personal finance I've ever had, as concisely as possible](https://blog.aadilali.com/posts/personal-finance.html): *Before you even think about investing, start with the personal finance fundamentals.*
+
+* [How Piwik built a Google Analytics alternative out of an open-source project](https://hackernoon.com/how-piwik-built-a-google-analytics-alternative-out-of-an-open-source-project-hb2x35bf): *Piwik began as an open source statistics system back in 2007. Maciej began contributing to the project and using it for the advertising business he owned at the time.*
+  
+* [Build a business, not an audience](https://jakobgreenfeld.com/build_an_audience): *If you’re reading this, I’m pretty sure you’ve seen the following pattern over and over again.*
+
+* [The small web is beautiful](https://benhoyt.com/writings/the-small-web-is-beautiful): *I believe that small websites are compelling aesthetically, but are also important to help us resist selling our souls to large tech companies. In this essay I present a vision for the “small web” as well as the small software and architectures that power it. Also, a bonus rant about microservices.*
 
 ---
 
@@ -44,7 +50,7 @@ Welcome to **Digest {{num}}** of the newsletter. {{intro}} 🏆
 
 {{< featuredImage alt="featured image" width=200 height=200 >}}
 
-| [Twitter]https://{{twitter}} | [LinkedIn]https://{{linkedin}} | [GitHub]https://{{github}} | [Keybase]https://{{keybase}} | [Blog]https://{{blog}} |
+| [Twitter]https://{{twitter}} | [LinkedIn]https://{{linkedin}} | [GitHub]https://{{github}} | [Medium]https://{{medium}} | [Profile]https://{{profile}} |
 | ------- | ------- | ------- | ------- | ------- |
 
 {{skill}} 🍸
@@ -100,68 +106,53 @@ He is currently learning {{learning}} 📚
 
 ## Tweet Focus 
 
-{{< img src="/images/makerwork{{num}}/{{timage}}" title="{{tname}}" alt="*{{tname}}*" width="{{twidth}}px" position="center" >}}
+[{{< img src="/images/makerwork{{num}}/{{timage}}" title="{{tname}}" alt="*{{tname}}*" width="{{twidth}}px" position="center" >}}]https://{{turl}}
 
 ---
 
 ## Education 📚 & Resources 🧩
 
-* [Building in Public Definite Guide](https://kevoncheung.com/building-in-public): *You're now reading the Building in Public eBook and guide that comes from months of studying, understanding, and implementing how Building in Public works for founders and creators.*
-* [Litic](https://litic.techseo.blog): *Analyze your website and get insights about SEO, accessibility, security, and best practices in less than a minute.*
+* 
 
 ---
 
 ## An Interview with {{fname}} of {{pname}}
 
-**Hey {{fname}}! Let's start out with your background and how did you get into coding? 📝**
+**Hey {{fname}}! Let's start out with your background. 📝**
 
-> I'm a software engineer at [Kevel](kevel.co), and a life-long musician, composer and self-taught programmer. 
+> I'm a software developer who worked several years as a freelancer and many years as an employee implementing others' ideas. 
 > 
-> After studying Music Composition in college and beginning to get more into software development, I started to become really interested in the idea of composing music the same way that software developers create software. This is what led me to develop Alda, a music composition programming language.
+> I'm now learning the art of implementing my own ideas and dreams, the art of making projects and working for myself.
 
 **What is the purpose of your blog, and what resources do you use to get your ideas, if any? 🧩**
 
-> I write about all kinds of things in my blog. I've probably written the most about Alda, but I've also written about my various music projects, productivity tools, the Clojure programming language, and a bunch of other random stuff.
-> 
-> I keep a file where I jot down quick ideas for blog posts whenever they occur to me. I try to keep my blog post ideas small, although I often end up having a lot more to say than I anticipated! 
-> 
-> Every couple weeks or so I try to start working on a new blog post, and I refer to my list of blog post ideas for inspiration.
+> I describe things related to my work on my blog Moiva.io and I usually get my ideas from reddit, hacker news, and twitter.
 
 **What is an opinion you have that most people don't agree with? ✒️**
 
-> I strongly prefer lines of code to be shorter than 80 characters. I feel like if you get much longer than that, the code ends up being difficult to navigate on smaller screens, harder to read, and poorly written. 
-> 
-> Granted, it isn't always technically possible to get below 80 characters (for example, there could be a really long URL that you can't chop up), and it doesn't bother me when teammates or contributors go over 80 characters for whatever reason. But in the code that I write, you'll typically see a lot of short lines instead of a few long ones.
+> If people recognized their fear and mistakes and not allow it to creep into their lives, and reevaluated their attitude towards their own mistakes and mistakes of others, we would leave in a different world, live different lives, and relate to the world differently.
 
 **Why was {{pname}} started and is there a roadmap? 🎯**
 
-> When I studied music composition, I used graphical score editing programs extensively, and I learned that if you use those types of GUI applications to assist you with composition, it becomes severely artistically limiting, because you end up composing music that is easier to notate in the GUI, but much less interesting and imaginative than it could be.
-> 
-> As I got more into software development, I grew to love the autonomy and creative freedom that came from working with a simple text editor and the command line. Because this type of environment doesn't guide you in any particular direction, you are free from influence and you can create whatever comes to mind. 
-> 
-> At one point, I started to wonder what it would be like to apply this sort of philosophy to music composition. In 2012, I started to experiment with creating a text-based language for music composition, and that experiment became Alda.
+> I started Moiva because I wanted to fulfil my ambitions, do something useful for many people, make money, as well as work for myself.
 >
-> In the years since then, I have been focused on implementing the basic features of the language, making the compiler performant, and providing a quality CLI experience. That work is still ongoing, but I do have some exciting ideas for the future of Alda, including collaborative live-coding features, waveform synthesis, and flexible import/export with a variety of formats including MIDI and MusicXML.
+> The roadmap is to make the project really useful for as many developers as possible, make it popular, bring a broad range of data and statistics in one place and present it in a nice and elegant way.
 
 **What is the most challenging problem that's been solved in {{pname}} so far? 🚧**
 
-> MIDI export was tricky to implement. Alda's model of time differs significantly from the typical one that you see in MIDI files. 
-> 
-> They are compatible, but I had to implement some complex logic in order to get to the point where you can export an Alda score to a MIDI file that's usable in other programs.
+> The recent most challenging problem was the transition from an npm package dependant tool to a universal tool that can be used to evaluate any GitHub and Npm projects, with the possibility to add other types of packages like Maven (Java) or PIP (Python).
 
 **What is one feature, which you're most proud of, that differentiates {{pname}} from other products? 🦄**
 
-> I think Alda's killer feature is that it treads the line between an easy-to-use, beginner-friendly music programming language and a flexible, all-powerful environment for Turing-complete music programming. 
-> 
-> Whether you're a musician looking to get more into programming, or a programmer looking to learn how to write music, I think you'll enjoy what Alda has to offer.
+> I'm most proud of the feature to compare Npm packages and Github repositories side by side with a broad range of statistical and historical data as I've never seen such a tool yet.
 
 **What is one product that you can't live without that you think others should know about? 💡**
 
-> I use tmux extensively to organize and persist all of my terminal sessions. It's really nice to be able to start something in one shell and then close the terminal and pick it right back up later, without having to remember the last command I run and the output.
+> I love VueJS framework.
 
 **If I gave you $1 million to invest in one thing right now, where would you put it? 🚀**
 
-> I would invest in research and development into affordable, sustainable transportation that won't contribute to climate change.
+> 
 
 **Thank you {{fname}}.**
 
