@@ -1,63 +1,62 @@
 # feature
-num: "006"
+num: "007"
 
 # trophy
-fname: "Alexey"
-lname: "Antipov"
-name: "Alexey Antipov"
+fname: "Antonio"
+lname: "Ufano"
+name: "Antonio Ufano"
 intro: "."
-skill: "Alexey is skilled in software development and juggling multiple tasks."
-learning: "how to fulfil my ambitions."
+skill: "nodejs, vuejs, docker, mongodb. 📦"
+learning: "Typescript."
 
 # social
-twitter: (twitter.com/_aantipov)
-linkedin: (linkedin.com/in/aantipov)
-github: (github.com/aantipov)
-medium: (medium.com/@aantipov)
-profile: (alexei.me)
+twitter: (twitter.com/uf4no)
+indiehackers: (indiehackers.com/Antonio)
+getmakerlog: (getmakerlog.com/@uf4no)
+blog: (antonioufano.com/blog)
 
 # product
-pname: Moiva
-purl: (moiva.io)
+pname: theLIFEBOARD
+purl: (thelifeboard.app)
 pshort: "A universal tool to evaluate, discover alternatives and compare software projects."
-pimage: "599x99moiva.png"
-pwidth: 599
-planguage: "TypeScript, Vue, Html, Css"
-pstars: 7
+pimage: "494x53thelifeboard.png"
+pwidth: 494
+planguage: "Vue, Html, Css"
+pstars: 0
 pforks: 0
-pissues: 1
-plast: "Feb 23, 2021"
-pfirst: "Oct 20, 2020"
+pissues: 0
+plast: "."
+pfirst: "."
 
 # product2
-qname: "Peppermint"
-qurl: (github.com/Peppermint-Lab/Peppermint)
-qshort: "An open source ticket management system."
-qimage: "350x104peppermint.png"
-qwidth: 350
-qlanguage: "JavaScript, CSS"
-qstars: 71
-qforks: 5
-qissues: 3
-qlast: "Mar 01, 2021"
-qfirst: "Nov 05, 2020"
+qname: "BeeWare"
+qurl: (beeware.org)
+qshort: "Write once. Deploy everywhere."
+qimage: "200x200beeware.png"
+qwidth: 200
+qlanguage: "Python"
+qstars: "2.6k"
+qforks: 478
+qissues: 107
+qfirst: "Aug 01, 2014"
+qlast: "Mar 08, 2021"
 
 # product3
-rname: "Jam"
-rurl: (gitlab.com/jam-systems/jam)
-rshort: "Jam is an open source alternative to Clubhouse, Twitter Spaces and similar audio spaces."
-rimage: "200x200jam.png"
+rname: "Flameshot"
+rurl: (github.com/flameshot-org/flameshot)
+rshort: "Powerful yet simple to use screenshot software. 🖥️ 📸"
+rimage: "200x141flameshot.png"
 rwidth: 200
-rlanguage: "JavaScript, CSS"
-rstars: 128
-rforks: 25
-rissues: 35
-rlast: "Mar 01, 2021"
-rfirst: "Feb 02, 2021"
+rlanguage: "C++, CMake"
+rstars: "10.6k"
+rforks: 690
+rissues: 240
+rfirst: "May 10, 2017"
+rlast: "Mar 10, 2021"
 
 # tweet
 tname: "tweet"
-turl: (twitter.com/farez/status/1366579902519128066)
+turl: (twitter.com/verge/status/1368921958734323717)
 timage: "tweet.png"
 twidth: 550
 
