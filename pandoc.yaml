@@ -1,62 +1,62 @@
 # feature
-num: "007"
+num: "008"
 
 # trophy
-fname: "Antonio"
-lname: "Ufano"
-name: "Antonio Ufano"
+fname: "Pascal"
+lname: "Thormeier"
+name: "Pascal Thormeier"
 intro: "."
-skill: "nodejs, vuejs, docker, mongodb. 📦"
-learning: "Typescript."
+skill: "problem solving, asking why and how, ability to learn and to adapt quickly. 📦"
+learning: "electronics and soldering. 🤖"
 
 # social
-twitter: (twitter.com/uf4no)
-indiehackers: (indiehackers.com/Antonio)
-getmakerlog: (getmakerlog.com/@uf4no)
-blog: (antonioufano.com/blog)
+twitter: (twitter.com/pthormeier)
+linkedin: (linkedin.com/in/thormeier)
+devto: (dev.to/thormeier)
+github: (github.com/thormeier)
 
 # product
-pname: theLIFEBOARD
-purl: (thelifeboard.app)
-pshort: "A universal tool to evaluate, discover alternatives and compare software projects."
+pname: Yummyplan
+purl: (yummyplan.app)
+pshort: "An app to create a meal plan for an entire week."
 pimage: "494x53thelifeboard.png"
 pwidth: 494
-planguage: "Vue, Html, Css"
-pstars: 0
-pforks: 0
+planguage: "TypeScript, Vue"
+pstars: 17
+pforks: 7
 pissues: 0
 plast: "."
 pfirst: "."
 
 # product2
-qname: "BeeWare"
-qurl: (beeware.org)
-qshort: "Write once. Deploy everywhere."
-qimage: "200x200beeware.png"
+qname: "LogChimp"
+qurl: (logchimp.codecarrot.net)
+qshort: "Build better products with customer feedback."
+qimage: "200x200logchimp.png"
 qwidth: 200
-qlanguage: "Python"
-qstars: "2.6k"
-qforks: 478
-qissues: 107
-qfirst: "Aug 01, 2014"
-qlast: "Mar 08, 2021"
+qlanguage: "JavaScript, Html"
+qstars: 143
+qforks: 25
+qissues: 15
+qfirst: "Jan 19, 2020"
+qlast: "Apr 03, 2021"
 
 # product3
-rname: "Flameshot"
-rurl: (github.com/flameshot-org/flameshot)
-rshort: "Powerful yet simple to use screenshot software. 🖥️ 📸"
-rimage: "200x141flameshot.png"
+rname: "FreeScout"
+rurl: (freescout.net)
+rshort: "Free self-hosted Zendesk & Help Scout alternative."
+rimage: "200x200freescout.png"
 rwidth: 200
-rlanguage: "C++, CMake"
-rstars: "10.6k"
-rforks: 690
-rissues: 240
-rfirst: "May 10, 2017"
-rlast: "Mar 10, 2021"
+rlanguage: "Php, Blade"
+rstars: "1k"
+rforks: 180
+rissues: 132
+rfirst: "Jun 22, 2018"
+rlast: "Apr 02, 2021"
 
 # tweet
 tname: "tweet"
-turl: (twitter.com/verge/status/1368921958734323717)
+turl: (twitter.com/joulee/status/1377645723118792707)
 timage: "tweet.png"
 twidth: 550
 

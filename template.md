@@ -1,7 +1,7 @@
 ---
 author: "hypowork"
-title: "Makerwork 007"
-date: "Wed, 10 Mar 2021 12:00:06 +0800"
+title: "Makerwork 008"
+date: "Fri, 2 Apr 2021 12:00:06 +0800"
 description: ""
 draft: false
 hideToc: false
@@ -9,12 +9,12 @@ enableToc: true
 enableTocContent: true
 authorEmoji: 👨
 tags: 
-- ~~GitHub~~
-- 
+- TypeScript
+- Vue
 - 
 series:
 - makerwork
-image: images/feature/makerwork007.png
+image: images/feature/makerwork008.png
 mustache: ./pandoc.yaml
 ---
 
@@ -30,17 +30,17 @@ Welcome to **Digest {{num}}** of the newsletter. Our featured maker, {{fname}}, 
 
 ## What I've Been Reading 📖
 
-* ⭐️ [Lessons learned after one year indie making: from $125K to $164](https://antonioufano.com/articles/lessons-learned-after-one-year-as-indie-maker): *welve months ago I quit my job as a senior software engineer to become a full-time indie maker. In my previous job I was making around 125K/year and during this year working on my projects I've made $164.*
+* ⭐️ [Let's build an actual working Guitar🎸 with JavaScript 💻🤘](https://dev.to/thormeier/let-s-build-an-actual-working-guitar-with-javascript-bfb): *Let's build a guitar! Well, ok, not a physical guitar, but the next best thing: A digital one!*
+  
+* [Why I Run Django on Kubernetes as a One-Man SaaS](https://anthonynsimon.com/blog/tools-of-the-trade): *When I first published my post on my tech stack as a one-man SaaS I got wildly different reactions. Some told me they loved it and had success with such a stack too, while others politely pointed out it’s too much complexity..*
 
-* [12 Learnings from 12 Months of Working from Home](https://www.linkedin.com/pulse/12-learnings-from-months-working-home-sean-brown): *Like many of you, for the last 12 months I’ve been working at home, waiting out the pandemic. During this period of time, YCharts has flourished, growing by ~45%, while also being acquired.*
+* [Inside a viral website - Not Fun at Parties](https://notfunatparties.substack.com/p/inside-a-viral-website): *As anyone reading this knows, the Ever Given was stuck in the Suez Canal for just over 6 days. It blocked a route that normally carried ~10% of the world’s trade. More importantly (at least for this post), it also generated more than 10% of the world’s memes. This is an account of running istheshipstillstuck.com.*
 
-* [How I almost gave up on Lastform](https://world.hey.com/meydjer/how-i-almost-gave-up-on-lastform-64048d50): *In 2011 I started selling themes for WordPress. It was the first time I managed to make money on the internet. While I was still single, the money was great. But in 2013 I got married, and in 2014 my first daughter was born.*
+* [The Story of a Unicorn Solo Founder Making $500,000 ARR 🚀](https://www.indiehackers.com/post/the-story-of-a-unicorn-solo-founder-making-500-000-arr-4c3070f0f0): *Do what you love, build projects and features people want, and the success will come. I bet you heard that many times. This saying is well known, but I need to point out it takes time to get results.*
 
-* [Foam: Six Months Later](https://jevakallio.github.io/notes/foam-six-months-later): *Hello. It’s me, Artist Formerly Known As Lead Maintainer of Foam. You may remember me from such hits as feverishly astroturfing a community around an early-stage open source project and then disappearing into the thin air without any kind of acknowledgement that anything had ever happened.*
+* [How I Launched ValueDensity in One Week](https://www.remidiy.com/blog/first-launch): *In my previous article, I've explained why I quit my lucrative data scientist job, 18 months back, to become an indiehacker. In this article I'll share how I launched a product, motivation, methods, mistakes and learnings.*
 
-* [Things I Made That Sucked](https://www.swiftjectivec.com/things-i-made-that-sucked): *We live in an industry that celebrates and demands success. From posts that proudly show metrics that are up and to the right, to App Store feature tweets - we love to see others hitting on their current ventures. And why not? It’s fun!*
-
-* [I sold Pingr. Lessons learned.](https://www.indiehackers.com/post/i-sold-pingr-lessons-learned-059502d5e6): *That’s it. I sold Pingr, and it doesn’t belong to me from now. After more than a year of working on Pingr, I got an offer from a random person who wanted to acquire it.*
+* [The Part Time Creator Manifesto](https://www.swyx.io/part-time-creator-manifesto): *Something unexpected happened when my side project crossed $100k in sales: I didn't want to quit my job.*
 
 ---
 
@@ -52,12 +52,12 @@ Welcome to **Digest {{num}}** of the newsletter. Our featured maker, {{fname}}, 
 
 {{< featuredImage alt="featured image" width=200 height=200 >}}
 
-| [Twitter]https://{{twitter}} | [IndieHackers]https://{{indiehackers}} | [GetMakerLog]https://{{getmakerlog}} | [Blog]https://{{blog}} |
+| [Twitter]https://{{twitter}} | [LinkedIn]https://{{linkedin}} | [GitHub]https://{{github}} | [Dev.to]https://{{devto}} |
 | ------- | ------- | ------- | ------- |
 
-{{fname}} is skilled in {{skill}} 🍸
+{{fname}} is skilled in {{skill}} 
 
-He is currently learning {{learning}} 📚
+He is currently re-learning {{learning}} 
 
 ---
 
@@ -126,44 +126,59 @@ He is currently learning {{learning}} 📚
 
 **Hey {{fname}}! Let's start out with your background. 📝**
 
-> I'm a full-stack developer with over 10 years of corporate experience working on a wide variety of projects: from small personal websites to full-fledge web applications or complex projects built with microservices and REST APIs. I quit my job a year ago to focus on building my own products.
+> I'm a Software engineer from Switzerland and I love solving problems, learning new things and sharing my knowledge.
+> 
+> I originally got into coding while working with the RPGMaker2000 back in high school. The RPGMaker2000 is a tool to create your own 2D games in the style of Final Fantasy 2 and the like. 
+> 
+> It had a scripting system with if/else blocks, loops, integers and boolean variables etc. That was my first point of contact with code. 
+> 
+> At some point I wanted my own website to show off my projects, so I learned HTML, CSS and PHP. Along came professional education and some 10 years working in the field.
 
 **What is the purpose of your blog, and what resources do you use to get your ideas, if any? 🧩**
 
-> I write technical articles mostly about Node.js, Vue.js or deployments to different platforms. In addition, I share milestones of my projects and lessons learned.
+> Sharing my knowledge about all things software development and web. I often write about tools, algorithms and cool stuff I made.
+> 
+> The internet, mostly search engines. Often I come up with ideas myself, but search engines help a lot when I'm stuck.
 
 **What is an opinion you have that most people don't agree with? ✒️**
 
+> Luck plays a significant role in being successful. You need to meet the right people (you often don't even know these people exist in the first place), publish your stuff everywhere, solve a problem for you have and see if any other people have the same problem and like your solution. 
 > 
+> Success, as I've learned, is basically trying over and over and, at some point, a happy coincidence helping you gain traction.
 
 **Why was {{pname}} started and is there a roadmap? 🎯**
 
-> I created it to scratch my own itch. It's a weekly planner to help people create new habits and achieve life goals. 
+> I originally created Yummyplan to digitize an analog solution (with paper and sticky notes) we used at home. I wanted this thing to be as useful as possible and to take away a maximum of the boring work, like looking for that one sticky, random meals if we're out of ideas or writing the grocery list. 
 > 
-> It follows a simple methodology:
-> * plan: define tasks related to your goals to work on them during the week
-> * execute: work on those tasks
-> * analyse: at the end of the week, review your progress and analyse your wins and how can you do better
-> * improve: learn from your actions, create better routines based on what works for you
-> * repeat
+> The frontend application is currently published under the MIT license, so it's open source. Since Yummyplan is more of a hobby project, there is a roadmap, but not really a detailed one. 
 > 
-> I've been following this methodoligy for almost four years with great results so I'm sure people will find it helpful.
+> Next on my list are further bug fixes and a backend to enable cross-device sharing - I got a lot of feedback that this was a highly desired feature.
 
 **What is the most challenging problem that's been solved in {{pname}} so far? 🚧**
 
-> Definitely marketing/sales. As a technical person I focus too much on building new features, improving performance and things like that instead of trying to find new users or get feedback to decide what to work on next.
+> Definitely the grocery list! There's multiple steps to this behemoth of a feature. 
+> 
+> First, it needs to collect all the ingredients of all selected menus. Those need to be added up (example: if two menus each use 1 liter of milk, the grocery list should show "2 liters of milk") and are then sorted into categories to make the grocercy trip a lot simpler. 
+> 
+> Then there's the "tick off" feature, a separate list of items don't need to be bought. The PDF-download was its very own odyssey and I'm still tweaking it.
 
 **What is one feature, which you're most proud of, that differentiates {{pname}} from other products? 🦄**
 
-> The weekly review exercise. It allows users to check their habits for the whole week, review all their tasks and ask them specific questions that helps them analyze their progress.
+> The randomize button and the grocery list are among my favorites. They solve problems we had in real life. 
+> 
+> When we were planing our meals with stickies on a piece of paper, we often ran out of ideas. Also, we often forgot grocery items because we didn't think of them. 
+> 
+> Those two features alone brought the process of meal planning from 30 minutes down to around 5 minutes and we never forgot to buy anything crucial ever since.
 
 **What is one product that you can't live without that you think others should know about? 💡**
 
-> MakerLog
+> Vivaldi, a browser by the ex core team of Opera. It lives up to the spirit and is an absolute bliss for power users!
 
 **If I gave you $1 million to invest in one thing right now, where would you put it? 🚀**
 
-> I'd pay debts from friends and family, then put most of it on considered safe investments like bonds, dividend stocks or index funds. Oh, and some crypto. 🤑
+> Non-profits that help the less-privileged. Some of them, like cafes that offer safe spaces or sports clubs, really struggle in the current situation and could use some financial support. 
+> 
+> I'd probably also invest in some startups that work on clean energy or making education more accessibly. ☀️
 
 **Thank you {{fname}}.**
 
